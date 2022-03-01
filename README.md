@@ -27,7 +27,7 @@
 
 ## Installation
 
-* Clone CatS repo: ``` git clone https://github.com/gtbriel/CatS.git ```
+* Clone CatS repo: ``` git clone https://github.com/gtbriel/CatS.git ``` or **Code >> Download ZIP**
 
 * Copy **CatSReactions** folder to Documents directory
 
