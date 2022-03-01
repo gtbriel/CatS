@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cats-logo.png" height="300" width="550" alt="CatS" />
+  <img src="https://drive.google.com/uc?id=1jsyAPKQf193HMTakjvl9HwN_H_N_Hdoi" height="300" width="550" alt="CatS" />
 </p>
 
 ## Overview
