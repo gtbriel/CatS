@@ -10,4 +10,10 @@
 
 ## Installation
 
+* Clone CatS repo: ``` git clone https://github.com/gtbriel/CatS.git ```
+
+* Copy **CatSReactions** folder to Documents directory
+
+* Launch **cats.exe**
+
 ## Contributing
