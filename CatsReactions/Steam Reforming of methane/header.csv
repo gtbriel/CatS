@@ -1,0 +1,12 @@
+Catalyst Preparation Methods,Calcination Parameters,Reduction Parameters,Supports (molar ratio),Base Metal (wt %),Other Parameters,Reactor Types,Outputs
+Commercial,IWI,Wet impregnation,co-impregnation,seq-impregnation,co precipitation,Sol Gel precipitation,Others
+Temperature (K),Time (hour)
+Temperature(K),Time (hour),%H₂,Medium - %Ar,Medium - %He,Medium - %N₂
+α-Al₂O₃,γ-Al₂O3,δ-Al₂O₃,MgAl₂O₄,MgO,CeO₂ Ceria,ZrO₂ Zirconia,Gd₂O₃ (gadolinia),Ni-Based Catalyst,SiO₂,SBA-15
+Ni,Mo,B,CeO₂ Ceria,ZrO₂ Zirconia,Ca,Mg,Ru
+CH₄ (%),H₂O (%),CO₂ (%),CO (%),H₂ (%),TOS (min),W/F (gcat*min/m³),Temp (K),Press (atm)
+Packed Bed Reactor,Fluidized Bed Reactor,Membrane Reactor,Micro-Reactor
+CH₄ Conversion
+
+
+
