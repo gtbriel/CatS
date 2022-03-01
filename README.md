@@ -9,7 +9,7 @@
 <div align="center">
 
   <a href="">![COUNT](https://img.shields.io/badge/reactions-3-green?style=for-the-badge)</a>
-  <a href="">![DOWNLOADS](https://img.shields.io/github/downloads/gtbriel/CatS/total?style=for-the-badge)</a>
+  <a href="">![DOWNLOADS](https://img.shields.io/github/downloads/gtbriel/CatS/latest/total?style=for-the-badge)</a>
   <a href="">![ISSUES](https://img.shields.io/github/issues-raw/gtbriel/CatS?style=for-the-badge)</a>
 
 </div>
