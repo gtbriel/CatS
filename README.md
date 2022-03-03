@@ -16,7 +16,7 @@
 
 ## Overview
 
-  For theoretical details, access our published article [here]().
+  For theoretical details, access our published paper [here]().
 
 ## Features
 
