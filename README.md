@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1jsyAPKQf193HMTakjvl9HwN_H_N_Hdoi" height="300" width="550" alt="CatS" />
+  <img src="https://github.com/gtbriel/CatS/blob/main/app/data/flutter_assets/assets/Cats_Final.png?raw=true" height="300" width="550" alt="CatS" />
 </p>
 
 <p align="center">
